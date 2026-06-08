@@ -1,9 +1,7 @@
 /***********************************
 
 > ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭
-> Author            @me123
-> TgChannel         https://t.me/tienich
-> ScriptURL         https://raw.githubusercontent.com/me123/Module_IOS/refs/heads/main/js/revenuecat.js
+> Author            @me123      
 
 
 [rewrite_local]
